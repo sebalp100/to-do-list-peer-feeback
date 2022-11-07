@@ -1,4 +1,4 @@
-/* eslint-disable  no-unused-vars */
+/* eslint-disable  max-classes-per-file */
 
 const input = document.querySelector('.list-create input');
 const list = document.querySelector('.list');
